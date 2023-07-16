@@ -1,0 +1,41 @@
+ID 51
+# COMMAND BLOCK
+400
+# Hull
+426
+428
+429
+430
+432
+433
+434
+
+301
+302
+307
+
+# Thrusters
+12036
+803
+804
+805
+
+# Generators
+401
+
+# Cannon Boosters
+410
+
+# Weapons
+232
+227
+234
+228
+242
+842
+853
+413
+
+# Shields
+411
+415
