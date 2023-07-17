@@ -11,7 +11,12 @@ $1 ~ /^#/ {
 }
 
 $1 ~ /[0-9]+/ {
-    line = "{"((faction_id * 1000) + block_spec)", extends = "$1", group = "faction_id"}"
+    features = ""
+    for (i = 1; i <= NF; i++) {
+        if ($i ~ /[A-Z]+/)
+            features = features "|" $i
+    }
+    line = "{"((faction_id * 1000) + block_spec)", extends = "$1", group = "faction_id", features=PALETTE"features"}"
     print line
     block_spec += 2
 }
