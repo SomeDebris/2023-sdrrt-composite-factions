@@ -1,5 +1,5 @@
 -- Core
-{52000, extends = 15000, group = 52, features=PALETTE|COMMAND|GENERATOR|ASSEMBLER|TRACTOR|SELFFACTORY}
+{52000, extends = 15000, group = 52, features=NOPALETTE|COMMAND|GENERATOR|ASSEMBLER|TRACTOR|SELFFACTORY}
 -- generators
 {52002, extends = 801, group = 52, features=PALETTE|GENERATOR}
 {52004, extends = 834, group = 52, features=PALETTE|GENERATOR}

@@ -1,5 +1,5 @@
 -- COMMAND BLOCK
-{51000, extends = 400, group = 51, features=PALETTE|COMMAND|GENERATOR|ASSEMBLER|TRACTOR|SELFFACTORY}
+{51000, extends = 400, group = 51, features=NOPALETTE|COMMAND|GENERATOR|ASSEMBLER|TRACTOR|SELFFACTORY}
 -- Hull
 {51002, extends = 426, group = 51, features=PALETTE}
 {51004, extends = 428, group = 51, features=PALETTE}
