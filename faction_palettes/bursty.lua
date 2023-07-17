@@ -36,7 +36,7 @@
 {50064, extends = 845, group = 50, features=PALETTE|TURRET|LASER|CHARGING}
 {50066, extends = 15001, group = 50, features=PALETTE|LASER|CHARGING, points=288}
 {50068, extends = 814, group = 50, features=PALETTE|TURRET|LASER}
-{50070, extends = 314, group = 50, features=PALETTE|TURRET|LASER}
+{50070, extends = 314, group = 50, features=PALETTE|TURRET|LASER|AUTOFIRE}
 -- shields
 {50072, extends = 850, group = 50, features=PALETTE|SHIELD}
 -- generator
