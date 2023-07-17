@@ -32,10 +32,11 @@
 {52052, extends = 251, group = 52}
 {52054, extends = 252, group = 52}
 {52056, extends = 253, group = 52}
-{52058, extends = 310, group = 52}
-{52060, extends = 831, group = 52}
-{52062, extends = 881, group = 52}
-{52064, extends = 891, group = 52}
-{52066, extends = 848, group = 52}
+{52058, extends = 250, group = 52}
+{52060, extends = 310, group = 52}
+{52062, extends = 831, group = 52}
+{52064, extends = 881, group = 52}
+{52066, extends = 891, group = 52}
+{52068, extends = 848, group = 52}
 -- shield
-{52068, extends = 850, group = 52}
+{52070, extends = 850, group = 52}
