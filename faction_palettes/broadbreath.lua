@@ -33,10 +33,12 @@
 {52054, extends = 252, group = 52, features=PALETTE|TURRET|LASER}
 {52056, extends = 253, group = 52, features=PALETTE|TURRET|LASER}
 {52058, extends = 250, group = 52, features=PALETTE|LAUNCHER}
-{52060, extends = 310, group = 52, features=PALETTE|TURRET|CANNON}
+{52060, extends = 309, group = 52, features=PALETTE|TURRET|CANNON}
 {52062, extends = 831, group = 52, features=PALETTE|TURRET|CANNON}
 {52064, extends = 881, group = 52, features=PALETTE|TURRET|CANNON}
 {52066, extends = 891, group = 52, features=PALETTE|TURRET|CANNON}
 {52068, extends = 848, group = 52, features=PALETTE|TURRET|CANNON|CHARGING}
+{52070, extends = 226, group = 52, features=PALETTE|CANNON}
+{52072, extends = 844, group = 52, features=PALETTE|CANNON}
 -- shield
-{52070, extends = 850, group = 52, features=PALETTE|SHIELD}
+{52074, extends = 850, group = 52, features=PALETTE|SHIELD}
